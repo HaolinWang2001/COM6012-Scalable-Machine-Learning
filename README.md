@@ -1,1 +1,3 @@
 # COM6012-Scalable-Machine-Learning
+\\
+Qs1: You needed to use the full 1% of the training data for crossvalidation (not 80% of 1% of the training data) Qs2_1: Correctly showed min/max for each day of the week during July 1995 (without dropping rows with null values). Correctly showed visualisation for the min/max values. Correctly showed most and least requested videos. Correctly showed visualisation for the video requests. Sufficient observations. Report Clearly written with well documented code. Qs2_2: A: This is not how k-fold CV works (good article on machinelearningmastery.com) B: C: D: No comments in code. Gave half point only because report was really well made
